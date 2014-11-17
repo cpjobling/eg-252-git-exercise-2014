@@ -1,0 +1,97 @@
+[33mcommit cb5677f8796901af80eed51a5dfd8883b635e91d[m
+Author: Ahmed Alkhateeb <748089@swansea.ac.uk>
+Date:   Mon Nov 17 17:49:12 2014 +0000
+
+    The rest of chapter1
+
+[33mcommit 4eceb0c2a559abb58939ade7fb9a331475b8849f[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 12:14:13 2014 +0000
+
+    Changed Notes into a Copyright notice
+
+[33mcommit ff95067bbc03ddf0b38cdfa9e103d808d4e376b5[m
+Author: Dr Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 12:06:11 2014 +0000
+
+    More tweaks to the README.md
+
+[33mcommit b59ac632bcf88d9470a3e2744f4579e1f1350806[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 12:03:40 2014 +0000
+
+    Add better explanation of repository's purpose
+
+[33mcommit dc47a2ff6a8850670cac03200ff0dabe8e26ca1d[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 12:00:56 2014 +0000
+
+    Fixed a typo; also rearranged text slightly
+
+[33mcommit 3262c796ef60884917e4e8d9344ec7b92383ea9f[m
+Author: Dr Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 11:56:10 2014 +0000
+
+    More clarification of submission method added to README.md
+
+[33mcommit d1d7e8a4e8c7d0d5ada308c4cfab85fdb7916eba[m
+Author: Dr Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 11:53:27 2014 +0000
+
+    Added more explanation to README.md
+
+[33mcommit 4a978a6ed4021f839d9419270c5c1e8a78843cd8[m
+Author: Dr Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Thu Nov 13 11:29:35 2014 +0000
+
+    Ignore .c9 files for users of cloud9 ide
+
+[33mcommit 7ae601bda9745e11cd84ac7ff6f34781520ca269[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Tue Nov 11 20:51:33 2014 +0000
+
+    Added an extra blank line to end of text
+
+[33mcommit eaa3988a54e381c9524900968056b7bae9ceb7fb[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Tue Nov 11 20:48:33 2014 +0000
+
+    Corrected type
+
+[33mcommit bdd7ffbd926b4c6011723bce50a2828a415c86d3[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Tue Nov 11 20:48:11 2014 +0000
+
+    Extended explanation of source of data
+
+[33mcommit 4ccd4f2cb77ce7a0fe1ec3c5f0aaadd3602e8a44[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Fri Nov 7 18:34:36 2014 +0000
+
+    Changed title of readme
+
+[33mcommit 711c9730f1de57a1820c99d0cb76c53e14412600[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Fri Nov 7 14:04:08 2014 +0000
+
+    Added chapter1.txt
+    
+    Contains two deliberate errors.
+
+[33mcommit 9c8657aec63394e888ce193069569b4c678b3c74[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Fri Nov 7 14:01:47 2014 +0000
+
+    Added license terms
+
+[33mcommit b04f198728745bc88641f00a459a4c47ba128cdf[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Fri Nov 7 13:55:52 2014 +0000
+
+    Add alice.txt
+
+[33mcommit fc6745a1ad76011e9c711c2e9cd35b1d6d51425b[m
+Author: Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Date:   Fri Nov 7 13:54:49 2014 +0000
+
+    Initial commit
