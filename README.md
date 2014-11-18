@@ -1,5 +1,9 @@
 EG-252 Git Exercise
 ===================
+Grzegorz Piasecki	
+797870
+18.11.2014
+
 
 An exercise in using git.
 
