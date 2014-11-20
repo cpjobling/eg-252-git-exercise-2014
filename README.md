@@ -4,7 +4,7 @@ EG-252 Git Exercise
 An assessed exercise which demonstrates that you have achieved basic competence in using Git for version control.
 See Lab 4 on Blackboard for the accompanying instructions.
 
-**This work was submitted for assessment by name (number) on date**
+**This work was submitted for assessment by Harry Carver (800288) on 18/11/14**
 
 ## Submitting your work for marking
 
