@@ -1,5 +1,9 @@
 EG-252 Git Exercise
 ===================
+Grzegorz Piasecki	
+797870
+21.11.2014
+
 
 An assessed exercise which demonstrates that you have achieved basic competence in using Git for version control.
 See Lab 4 on Blackboard for the accompanying instructions.
