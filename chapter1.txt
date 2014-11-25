@@ -44,11 +44,14 @@ disappointment it was empty: she did not like to drop the jar for fear
 of killing somebody, so managed to put it into one of the cupboards as
 she fell past it.
 
+<<<<<<< HEAD
+=======
 'Well!' thought Alice to herself, 'after such a fall as this, I shall
 think nothing of tumbling down stairs! How brave they'll all think me at
 home! Why, I wouldn't say anything about it, even if I fell off the top
 of the house!' (Which was very likely true.)
 
+>>>>>>> upstream/master
 Down, down, down. Would the fall NEVER come to an end! 'I wonder how
 many miles I've fallen by this time?' she said aloud. 'I must be getting
 somewhere near the centre of the earth. Let me see: that would be four
@@ -206,6 +209,3 @@ So she set to work, and very soon finished off the cake.
     *    *    *    *    *    *
 
   *    *    *    *    *    *    *
-
-
-
