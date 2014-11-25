@@ -1,6 +1,8 @@
 EG-252 Git Exercise
 ===================
 
+Changes submitted for assessment by Your James Jenkins (638561) on 25/11/2014.
+
 An assessed exercise which demonstrates that you have achieved basic competence in using Git for version control.
 See Lab 4 on Blackboard for the accompanying instructions.
 
